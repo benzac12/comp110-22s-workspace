@@ -1,6 +1,6 @@
 """EX02 - One-Shot Wordle."""
 
-__author__ = 730232406
+__author__ = "730232406"
 
 secret: str = ("python")
 guess: str = input(f"What is your {len(secret)}-letter guess? ")
